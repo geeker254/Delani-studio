@@ -30,6 +30,6 @@ The user interacts with the site and can input his/her comments in the descripti
 
     *eugenebiwott@gmail.com
 
-### Link to published site: [click here](https://geeker254.github.io/Akwan-name-generator/.)
+### Link to published site: [click here]()
 
-## License: [copywright information](https://raw.githubusercontent.com/geeker254/Akwan-name-generator/master/LICENSE)
+## License: [copywright information](https://raw.githubusercontent.com/geeker254/Delani-studio/master/LICENSE)
