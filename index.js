@@ -1,19 +1,18 @@
-$(document).ready(function(){
-    $("#work1").mouseover(function(){
-      $("#overlay").show();
-    }).mouseout(function(){
-      $("#overlay").hide();
-    });
+$('.main').click(function () {
+    $(this).children('.hideMe').slideToggle(1200);
+    $(this).children('.show').toggle(1500);
   });
+  
 $('form#myForm').submit(function(){
     var name = $('#name').val();
     var pass = $('#email').val();
-    var text = $('#mess').val();
-    alert("Hi! We have received your message and we will get in touch. Thank you for contacting us.");
+    var mess = $('#mess').val();
+    alert("Hi " +name+ " we have received your message and we will get in touch. Thank you for contacting us.");
   });
-
-$("button").on('click', function(){
+  
+  $("button").on('click', function(){
     $('form').each(function(){
       this.reset();
     });
+  
 });
