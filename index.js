@@ -9,6 +9,12 @@ $(document).ready(function(){
       }
       else {
         alert("Please enter your name and email!");
-      }
+    }
+});
+});
+
+$("button").on('click', function(){
+    $('form').each(function(){
+      this.reset();
     });
 });
