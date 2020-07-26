@@ -30,6 +30,6 @@ The user interacts with the site and can input his/her comments in the descripti
 
     *eugenebiwott@gmail.com
 
-### Link to published site: [click here]()
+### Link to published site: [click here](https://geeker254.github.io/Delani-studio/)
 
 ## License: [copywright information](https://raw.githubusercontent.com/geeker254/Delani-studio/master/LICENSE)
