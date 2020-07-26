@@ -8,7 +8,8 @@ This is a software development web page that provides Delani studio information 
 Eugene Biwott
 
 ### Setup Instructions
-Runs on normal browser like;
+Runs on normal browser like
+
     *Chrome
     *Mozilla Firefox
     *Safari
@@ -16,7 +17,7 @@ Runs on normal browser like;
     *Duck Duck Go
 
 ### Behavior Driven Development
-The user interacts with the .
+The user interacts with the site and can input his/her comments in the description section. An alert will pop up notifying you of the submission.
 
 ### Technologies Used
 
