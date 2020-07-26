@@ -28,6 +28,30 @@
 .third-page {
     font-family: Electrolize;
 }
+.work1 :hover {
+    color: thistle;
+}
+.work2 :hover {
+    color: thistle;
+}
+.work3 :hover{
+    color: thistle;
+}
+.work4 :hover{
+    color: thistle;
+}
+.work5 :hover {
+    color: thistle;
+}
+.work6 :hover {
+    color: thistle;
+}
+.work7 :hover {
+    color: thistle;
+}
+.work8 :hover {
+    color: thistle
+}
 .fourth-page {
     font-family: Electrolize;
 }
