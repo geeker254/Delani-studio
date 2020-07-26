@@ -1,0 +1,23 @@
+.body{
+    background-color: tomato;
+}
+.logo {
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 70px;
+    height: 70px;
+    background-position: center;
+}
+
+.first-page {
+    background-image: url("Delani studio images/h_img.jpg");
+    color: white;
+    font-family: Electrolize;
+}
+.services {
+    background-image: url("Delani studio images/s_image.jpg");
+    color: white;
+}
+.contact-us {
+    background-image: url("Delani studio images/c_image.jpg");
+}
