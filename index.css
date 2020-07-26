@@ -6,18 +6,30 @@
     margin-bottom: 24px;
     width: 70px;
     height: 70px;
-    background-position: center;
+
 }
 
 .first-page {
     background-image: url("Delani studio images/h_img.jpg");
-    color: white;
+    font-family: Electrolize;
+    padding: 15%;
+}
+.second-page{
     font-family: Electrolize;
 }
+.about {
+    padding: 9%;
+}
+
+
 .services {
     background-image: url("Delani studio images/s_image.jpg");
+    padding: 9%;
     color: white;
+
+
 }
 .contact-us {
     background-image: url("Delani studio images/c_image.jpg");
+
 }
