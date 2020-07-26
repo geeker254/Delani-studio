@@ -20,15 +20,18 @@
 .about {
     padding: 9%;
 }
-
-
 .services {
     background-image: url("Delani studio images/s_image.jpg");
     padding: 9%;
     color: white;
-
-
 }
+.third-page {
+    font-family: Electrolize;
+}
+.fourth-page {
+    font-family: Electrolize;
+}
+
 .contact-us {
     background-image: url("Delani studio images/c_image.jpg");
     padding: 9%;
